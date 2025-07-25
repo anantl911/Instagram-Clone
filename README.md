@@ -4,4 +4,4 @@ This is a profile page clone I created during DevTown 7 Days Web Dev bootcamp us
 
 ## Links
 
-#### [Visit clone ]([https://vmart2025.vercel.app](https://anantl911.github.io/Instagram-Clone/))
+#### [Visit clone ](https://anantl911.github.io/Instagram-Clone/)
